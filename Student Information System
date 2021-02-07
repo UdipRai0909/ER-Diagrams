@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-07T13:15:50.214Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="c5rEqxNFXj9c-LLkR2Xg" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-07T20:17:23.455Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="7eKJVR8QQmRgS-5aKUxV" version="14.2.9" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2802" dy="1663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2802" dy="1720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -105,7 +105,7 @@
         <mxCell id="iUx8JqUOxodGq8jO7WxM-59" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="iUx8JqUOxodGq8jO7WxM-58" vertex="1">
           <mxGeometry width="30" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="iUx8JqUOxodGq8jO7WxM-60" value="&#xa;first_name varchar(30) NOT NULL&#xa;middle_name varchar(30)&#xa;last_name varchar(30) NOT NULL&#xa;email varchar(60) NOT NULL&#xa;address varchar (100) NOT NULL&#xa;gender varchar(15)&#xa;date_of_birth DATE NOT NULL&#xa;contact varchar(30) NOT NULL&#xa;attendance varchar(10) NOT NULL&#xa;" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="iUx8JqUOxodGq8jO7WxM-58" vertex="1">
+        <mxCell id="iUx8JqUOxodGq8jO7WxM-60" value="&#xa;first_name varchar(30) NOT NULL&#xa;middle_name varchar(30)&#xa;last_name varchar(30) NOT NULL&#xa;email varchar(60) NOT NULL&#xa;password varchar(255) NOT NULL&#xa;address varchar (100) NOT NULL&#xa;gender varchar(15)&#xa;date_of_birth DATE NOT NULL&#xa;contact varchar(30) NOT NULL&#xa;attendance varchar(10) NOT NULL&#xa;" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="iUx8JqUOxodGq8jO7WxM-58" vertex="1">
           <mxGeometry x="30" width="220" height="140" as="geometry" />
         </mxCell>
         <mxCell id="iUx8JqUOxodGq8jO7WxM-61" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="iUx8JqUOxodGq8jO7WxM-54" vertex="1">
@@ -270,7 +270,7 @@
         <mxCell id="iUx8JqUOxodGq8jO7WxM-85" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="iUx8JqUOxodGq8jO7WxM-84" vertex="1">
           <mxGeometry width="30" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="iUx8JqUOxodGq8jO7WxM-86" value="&#xa;first_name varchar(30) NOT NULL&#xa;last_name varchar(30) NOT NULL&#xa;email varchar(60) NOT NULL&#xa;address varchar (100) NOT NULL&#xa;gender varchar(15)&#xa;date_of_birth DATE NOT NULL&#xa;contact varchar(50) NOT NULL&#xa;hours int(2) NOT NULL&#xa;&#xa;" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="iUx8JqUOxodGq8jO7WxM-84" vertex="1">
+        <mxCell id="iUx8JqUOxodGq8jO7WxM-86" value="&#xa;first_name varchar(30) NOT NULL&#xa;middle_name varchar(30)&#xa;last_name varchar(30) NOT NULL&#xa;email varchar(60) NOT NULL&#xa;password varchar(255) NOT NULL&#xa;address varchar (100) NOT NULL&#xa;gender varchar(15)&#xa;date_of_birth DATE NOT NULL&#xa;contact varchar(50) NOT NULL&#xa;hours int(2) NOT NULL&#xa;&#xa;" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="iUx8JqUOxodGq8jO7WxM-84" vertex="1">
           <mxGeometry x="30" width="220" height="160" as="geometry" />
         </mxCell>
         <mxCell id="iUx8JqUOxodGq8jO7WxM-87" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="iUx8JqUOxodGq8jO7WxM-80" vertex="1">
