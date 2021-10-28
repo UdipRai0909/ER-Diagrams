@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-28T16:42:44.561Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="cVkfDnSBakaWd9K-EXj8" version="15.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-28T16:44:36.030Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="uTAyLBh3u-OuH5Fc9D0E" version="15.6.1" type="github">
   <diagram id="9JrSqewKfM9jdmpe-DgF" name="Page-1">
     <mxGraphModel dx="1635" dy="-8189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1519,14 +1519,17 @@
         <mxCell id="5m-owDJuzesUWh7IRRr4-160" value="(Kancha Khalak)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="671.81" y="12455" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5m-owDJuzesUWh7IRRr4-161" value="(Kancha Khalak)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="680" y="10780" width="130" height="20" as="geometry" />
+        <mxCell id="5m-owDJuzesUWh7IRRr4-161" value="(Kancha Khalak)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="670" y="10775" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5m-owDJuzesUWh7IRRr4-162" value="(Maila Khalak)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="674.62" y="11640" width="110" height="20" as="geometry" />
+        <mxCell id="5m-owDJuzesUWh7IRRr4-162" value="(Maila Khalak)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="664.62" y="11635" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5m-owDJuzesUWh7IRRr4-163" value="(Jetha Khalak)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="674.62" y="9145" width="110" height="20" as="geometry" />
+        <mxCell id="5m-owDJuzesUWh7IRRr4-163" value="(Jetha Khalak)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="666.8100000000001" y="9150" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5m-owDJuzesUWh7IRRr4-164" value="(Tularam)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="312.9" y="9155" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
