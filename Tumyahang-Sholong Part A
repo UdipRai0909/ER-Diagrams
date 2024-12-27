@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram id="RL88MUKzfnyMYwFXeh24" name="Page-1">
-    <mxGraphModel dx="1134" dy="-950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="588" dy="-1289" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7582,7 +7582,7 @@
         <mxCell id="ITCImf3kyeLEMODokCl7-261" value="छोरा" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=15;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=bottom;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="6234.77" y="8974.25" width="75.11" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="ITCImf3kyeLEMODokCl7-262" value="&lt;div&gt;छोरा&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=15;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=bottom;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="ITCImf3kyeLEMODokCl7-262" value="&lt;div&gt;मामलीङ&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=15;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=bottom;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="5955.55" y="8976.75" width="75.11" height="23" as="geometry" />
         </mxCell>
         <mxCell id="ITCImf3kyeLEMODokCl7-263" value="छोरा" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=15;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=bottom;fontStyle=1" vertex="1" parent="1">
@@ -7617,6 +7617,9 @@
         </mxCell>
         <mxCell id="ITCImf3kyeLEMODokCl7-277" value="&lt;div&gt;छोरा&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=15;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=bottom;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="6120.020000000001" y="8715.5" width="75.11" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="ITCImf3kyeLEMODokCl7-292" value="सोम्याङ" style="text;whiteSpace=wrap;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="5870" y="8637.5" width="45" height="27.37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
