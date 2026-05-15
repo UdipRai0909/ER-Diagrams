@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="3">
   <diagram name="भिम राई" id="9YfZKv3X8uOBbxD1lc2l">
-    <mxGraphModel dx="478" dy="313" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="606" dy="397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1014,11 +1014,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GaeJ4y0OTGOu2pAnttbZ" name="श्रीधोज">
-    <mxGraphModel dx="1126" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1313" dy="860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="slT1PCAVFnEDfzRkelAV-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;fontStyle=1;strokeWidth=2;" value="सिंभुवा-१&amp;nbsp;(चौतारा घर + तोरी घाम)" vertex="1">
+        <mxCell id="slT1PCAVFnEDfzRkelAV-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;fontStyle=1;strokeWidth=2;" value="चौतारा घर + तोरी घाम" vertex="1">
           <mxGeometry height="48" width="432.88" x="308.60000000000025" y="140" as="geometry" />
         </mxCell>
         <mxCell id="slT1PCAVFnEDfzRkelAV-3" edge="1" parent="1" source="slT1PCAVFnEDfzRkelAV-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=17;fontStyle=1;strokeWidth=2;" target="slT1PCAVFnEDfzRkelAV-13">
@@ -1125,7 +1125,7 @@
         <mxCell id="slT1PCAVFnEDfzRkelAV-35" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=20;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=bottom;fontStyle=1" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0.0001pt; line-height: normal; font-size: 20px;&quot;&gt;ज्ञानबहादुर&lt;/p&gt;" vertex="1">
           <mxGeometry height="40" width="120" x="1253.0500000000002" y="248" as="geometry" />
         </mxCell>
-        <mxCell id="slT1PCAVFnEDfzRkelAV-36" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=20;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=bottom;fontStyle=1" value="दीपक" vertex="1">
+        <mxCell id="slT1PCAVFnEDfzRkelAV-36" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=20;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=bottom;fontStyle=1" value="दिपक" vertex="1">
           <mxGeometry height="40" width="65" x="1113.4499999999998" y="751" as="geometry" />
         </mxCell>
         <mxCell id="slT1PCAVFnEDfzRkelAV-37" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;१९&lt;/b&gt;&lt;/span&gt;" vertex="1">
@@ -1247,12 +1247,6 @@
         </mxCell>
         <mxCell id="slT1PCAVFnEDfzRkelAV-61" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=20;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=bottom;fontStyle=1" value="" vertex="1">
           <mxGeometry height="40" width="102.52" x="1092.9100000000003" y="528" as="geometry" />
-        </mxCell>
-        <mxCell id="slT1PCAVFnEDfzRkelAV-63" edge="1" parent="1" source="slT1PCAVFnEDfzRkelAV-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="slT1PCAVFnEDfzRkelAV-8" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="slT1PCAVFnEDfzRkelAV-62" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=22;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=bottom;fontStyle=1" value="&lt;span style=&quot;font-family: calibri, sans-serif;&quot;&gt;नरदल याक्खा&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="150" x="774.54" y="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
