@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36">
   <diagram id="xnUxakqKEjUmDpS7B6Zw" name="Page-1">
-    <mxGraphModel dx="1617" dy="-9236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2426" dy="-8892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1197,20 +1197,6 @@
         </mxCell>
         <mxCell id="Y2Iz53gwISeu-W3x882E-1888" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=20;strokeWidth=2;" value="(जेठी तिर - यलाबा)" vertex="1">
           <mxGeometry height="40" width="170" x="147.06000000000006" y="14450" as="geometry" />
-        </mxCell>
-        <mxCell id="Y2Iz53gwISeu-W3x882E-1889" edge="1" parent="1" source="Y2Iz53gwISeu-W3x882E-1891" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=20;fontStyle=1;strokeWidth=2;" target="Y2Iz53gwISeu-W3x882E-1883">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Y2Iz53gwISeu-W3x882E-1890" edge="1" parent="1" source="Y2Iz53gwISeu-W3x882E-1891" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=20;fontStyle=1;strokeWidth=2;" target="Y2Iz53gwISeu-W3x882E-1849">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="615.6700000000001" y="14220" />
-              <mxPoint x="1044.67" y="14220" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Y2Iz53gwISeu-W3x882E-1891" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=22;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=bottom;fontStyle=1" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0.0001pt ; line-height: normal ; font-size: 22px&quot;&gt;&lt;span style=&quot;font-size: 22px ; line-height: 107% ; font-family: &amp;quot;calibri&amp;quot; , sans-serif&quot;&gt;नरदल याक्खा&lt;/span&gt;&lt;br style=&quot;font-size: 22px&quot;&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="30" width="170" x="531.6700000000001" y="14119" as="geometry" />
         </mxCell>
         <mxCell id="Y2Iz53gwISeu-W3x882E-1892" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=18;strokeWidth=2;" value="(साइली)" vertex="1">
           <mxGeometry height="40" width="80" x="659.8500000000001" y="14690" as="geometry" />
