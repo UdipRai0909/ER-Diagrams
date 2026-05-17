@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="8f1rnoJ54imUJZ3Wqrcn">
-    <mxGraphModel dx="2435" dy="1290" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1082" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -463,6 +463,56 @@
         </mxCell>
         <mxCell id="l-Gm7z34S9j7BBEeNZDr-347" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=18;align=center;fillColor=none;strokeColor=none;verticalAlign=bottom;fontStyle=1;labelBackgroundColor=none;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0.0001pt; line-height: normal;&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;१९&lt;/span&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="36" width="44.71" x="200.29" y="3140" as="geometry" />
+        </mxCell>
+        <mxCell id="l-Gm7z34S9j7BBEeNZDr-364" edge="1" parent="1" source="l-Gm7z34S9j7BBEeNZDr-353" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" target="l-Gm7z34S9j7BBEeNZDr-355">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="427" y="3410" />
+              <mxPoint x="180" y="3410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-Gm7z34S9j7BBEeNZDr-365" edge="1" parent="1" source="l-Gm7z34S9j7BBEeNZDr-353" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" target="l-Gm7z34S9j7BBEeNZDr-356">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="427" y="3410" />
+              <mxPoint x="342" y="3410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-Gm7z34S9j7BBEeNZDr-366" edge="1" parent="1" source="l-Gm7z34S9j7BBEeNZDr-353" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" target="l-Gm7z34S9j7BBEeNZDr-354">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="427" y="3410" />
+              <mxPoint x="665" y="3410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-Gm7z34S9j7BBEeNZDr-367" edge="1" parent="1" source="l-Gm7z34S9j7BBEeNZDr-353" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" target="l-Gm7z34S9j7BBEeNZDr-357">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="427" y="3410" />
+              <mxPoint x="500" y="3410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-Gm7z34S9j7BBEeNZDr-353" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=18;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=bottom;fontStyle=1" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0.0001pt; line-height: normal;&quot;&gt;&lt;span style=&quot;line-height: 107%; font-family: calibri, sans-serif;&quot;&gt;हितमान&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="36" width="120" x="366.8700000000004" y="3350" as="geometry" />
+        </mxCell>
+        <mxCell id="l-Gm7z34S9j7BBEeNZDr-354" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=18;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=bottom;fontStyle=1" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0.0001pt; line-height: normal;&quot;&gt;&lt;span style=&quot;line-height: 107%; font-family: calibri, sans-serif;&quot;&gt;मानपती&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="36" width="120" x="604.9999999999997" y="3440" as="geometry" />
+        </mxCell>
+        <mxCell id="l-Gm7z34S9j7BBEeNZDr-355" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=18;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=bottom;fontStyle=1" value="बखतजंग" vertex="1">
+          <mxGeometry height="36" width="120" x="120" y="3440" as="geometry" />
+        </mxCell>
+        <mxCell id="l-Gm7z34S9j7BBEeNZDr-356" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=18;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=bottom;fontStyle=1" value="फतुरे /&amp;nbsp;हेलुवा" vertex="1">
+          <mxGeometry height="36" width="120" x="282.3500000000005" y="3440" as="geometry" />
+        </mxCell>
+        <mxCell id="l-Gm7z34S9j7BBEeNZDr-357" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=18;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=bottom;fontStyle=1" value="आइमान" vertex="1">
+          <mxGeometry height="36" width="120" x="440.00000000000006" y="3440" as="geometry" />
+        </mxCell>
+        <mxCell id="l-Gm7z34S9j7BBEeNZDr-359" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=18;align=center;fillColor=none;strokeColor=none;verticalAlign=bottom;fontStyle=1;labelBackgroundColor=none;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0.0001pt; line-height: normal;&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;१७&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="36" width="44.71" x="319.99999999999994" y="3350" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
