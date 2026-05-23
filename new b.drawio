@@ -10894,7 +10894,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Page-4" id="nUhRnQc2OvX4OSlz8rsK">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3528" dy="1776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11173,6 +11173,75 @@
         </mxCell>
         <mxCell id="EENYqe-dcXJCG-JSWB4k-60" parent="1" style="text;whiteSpace=wrap;html=1;strokeWidth=2;" value="&lt;b style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;चक्रघट्टी&lt;/b&gt;" vertex="1">
           <mxGeometry height="29.5" width="80" x="1303" y="762.5" as="geometry" />
+        </mxCell>
+        <mxCell id="NjGzXPfeZQr_IN3zf4u0-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="238.75" width="220" x="2190" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NjGzXPfeZQr_IN3zf4u0-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;align=left;fontStyle=1;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="150" width="290" x="1810" y="156.25" as="geometry" />
+        </mxCell>
+        <mxCell id="NjGzXPfeZQr_IN3zf4u0-3" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontStyle=1;strokeWidth=2;" value="&lt;span&gt;छुट्टिएको (&lt;/span&gt;&lt;span&gt;&lt;span&gt;वंश अलग&lt;/span&gt;&lt;/span&gt;&lt;span&gt;)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="160" x="1810" y="163.75" as="geometry" />
+        </mxCell>
+        <mxCell id="NjGzXPfeZQr_IN3zf4u0-4" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontStyle=1;strokeWidth=2;" value="&lt;span&gt;जिजु / बराजु&amp;nbsp;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="1987.0700000000002" y="163.75" as="geometry" />
+        </mxCell>
+        <mxCell id="NjGzXPfeZQr_IN3zf4u0-5" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontStyle=1;strokeWidth=2;" value="&lt;span style=&quot;font-family: calibri, sans-serif; text-align: center;&quot;&gt;पुत्लुङहाँ&lt;br&gt;&lt;/span&gt;बायोकहॅा&lt;br&gt;मोरेहाँ&amp;nbsp;&lt;br&gt;फुगोनहाँ/सुमाँहाँ&lt;br&gt;योक्तेनहाँ" vertex="1">
+          <mxGeometry height="120" width="130" x="1829.3899999999999" y="189" as="geometry" />
+        </mxCell>
+        <mxCell id="NjGzXPfeZQr_IN3zf4u0-6" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=1;strokeWidth=2;" value="सामिकहाँ&lt;br&gt;लामबाकहॅा&lt;br&gt;युंसोमहाँ&lt;br&gt;&lt;span&gt;--------&lt;br&gt;&lt;/span&gt;मुयुंहाँ" vertex="1">
+          <mxGeometry height="47.5" width="120.01" x="2004.9899999999998" y="225.25" as="geometry" />
+        </mxCell>
+        <mxCell id="NjGzXPfeZQr_IN3zf4u0-7" edge="1" parent="1" source="NjGzXPfeZQr_IN3zf4u0-2" style="endArrow=none;html=1;rounded=0;fontSize=17;entryX=0.606;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.611;exitY=0.999;exitDx=0;exitDy=0;exitPerimeter=0;fontStyle=1;strokeWidth=2;" target="NjGzXPfeZQr_IN3zf4u0-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2025.3600000000001" y="398.75" as="sourcePoint" />
+            <mxPoint x="1832.3600000000001" y="238.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjGzXPfeZQr_IN3zf4u0-8" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontStyle=1;strokeWidth=2;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ब&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;प्र&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;कु&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;वंअ&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;नि&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;आ&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;हाँ&amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;था.न.&lt;/div&gt;&lt;div&gt;मृ&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="70" x="2202.4099999999994" y="150.25" as="geometry" />
+        </mxCell>
+        <mxCell id="NjGzXPfeZQr_IN3zf4u0-9" edge="1" parent="1" source="NjGzXPfeZQr_IN3zf4u0-2" style="endArrow=none;html=1;rounded=0;fontSize=17;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=2;" target="NjGzXPfeZQr_IN3zf4u0-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1670" y="336.25" as="sourcePoint" />
+            <mxPoint x="1720" y="286.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjGzXPfeZQr_IN3zf4u0-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;align=left;fontStyle=1;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="150" width="290" x="1810" y="156.25" as="geometry" />
+        </mxCell>
+        <mxCell id="NjGzXPfeZQr_IN3zf4u0-11" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontStyle=1;strokeWidth=2;" value="&amp;nbsp;वंश अलग" vertex="1">
+          <mxGeometry height="30" width="90" x="1852.4" y="163.75" as="geometry" />
+        </mxCell>
+        <mxCell id="NjGzXPfeZQr_IN3zf4u0-12" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontStyle=1;strokeWidth=2;" value="&lt;span&gt;जिजु / बराजु&amp;nbsp;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="1987.0700000000002" y="163.75" as="geometry" />
+        </mxCell>
+        <mxCell id="NjGzXPfeZQr_IN3zf4u0-13" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontStyle=1;strokeWidth=2;" value="&lt;span style=&quot;white-space: normal;&quot;&gt;पुतुहाँ&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: calibri, sans-serif; text-align: center;&quot;&gt;&lt;br&gt;&lt;/span&gt;बायोकहाँ&lt;br&gt;मोरेहाँ&amp;nbsp;&lt;br&gt;फुगोनहाँ /&amp;nbsp;सुमाँहाँ&lt;br&gt;योक्तेनहाँ" vertex="1">
+          <mxGeometry height="120" width="140" x="1829.3899999999999" y="189" as="geometry" />
+        </mxCell>
+        <mxCell id="NjGzXPfeZQr_IN3zf4u0-14" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=1;strokeWidth=2;" value="सामिकहाँ&lt;br&gt;लामबाकहाँ&lt;br&gt;युंसोमहाँ&lt;br&gt;&lt;span&gt;--------&lt;br&gt;&lt;/span&gt;मुयुंहाँ" vertex="1">
+          <mxGeometry height="47.5" width="120.01" x="2004.9899999999998" y="225.25" as="geometry" />
+        </mxCell>
+        <mxCell id="NjGzXPfeZQr_IN3zf4u0-15" edge="1" parent="1" source="NjGzXPfeZQr_IN3zf4u0-10" style="endArrow=none;html=1;rounded=0;fontSize=17;entryX=0.606;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.611;exitY=0.999;exitDx=0;exitDy=0;exitPerimeter=0;fontStyle=1;strokeWidth=2;" target="NjGzXPfeZQr_IN3zf4u0-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2025.3600000000001" y="398.75" as="sourcePoint" />
+            <mxPoint x="1832.3600000000001" y="238.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjGzXPfeZQr_IN3zf4u0-16" edge="1" parent="1" source="NjGzXPfeZQr_IN3zf4u0-10" style="endArrow=none;html=1;rounded=0;fontSize=17;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=2;" target="NjGzXPfeZQr_IN3zf4u0-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1670" y="336.25" as="sourcePoint" />
+            <mxPoint x="1720" y="286.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjGzXPfeZQr_IN3zf4u0-17" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontStyle=1;strokeWidth=2;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;बहादुर&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;प्रसाद&lt;/div&gt;&lt;div&gt;कुमार / कुमारी&lt;/div&gt;&lt;div&gt;वंश अलग&lt;/div&gt;&lt;div&gt;निसंतान&lt;/div&gt;&lt;div&gt;आसाम&lt;/div&gt;&lt;div&gt;हाङ&lt;/div&gt;&lt;div&gt;थाहा नभएको&lt;/div&gt;&lt;div&gt;मृत्यु&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="120" x="2290" y="150.25" as="geometry" />
+        </mxCell>
+        <mxCell id="NjGzXPfeZQr_IN3zf4u0-18" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontStyle=1;strokeWidth=2;" value="&lt;div style=&quot;line-height: 0%;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;u&gt;नोट:&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="2202.41" y="133.75" as="geometry" />
+        </mxCell>
+        <mxCell id="NjGzXPfeZQr_IN3zf4u0-19" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontStyle=1;strokeWidth=2;" value="&lt;div&gt;=&lt;/div&gt;&lt;div&gt;=&lt;/div&gt;&lt;div&gt;=&lt;/div&gt;&lt;div&gt;=&lt;/div&gt;&lt;div&gt;=&lt;/div&gt;&lt;div&gt;=&lt;/div&gt;&lt;div&gt;=&lt;/div&gt;&lt;div&gt;=&lt;/div&gt;&lt;div&gt;=&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="30" x="2252.41" y="147.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
