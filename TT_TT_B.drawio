@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="2">
   <diagram name="Page-1" id="_A0P7xX12ALmnPptFxIs">
-    <mxGraphModel dx="2916" dy="-8116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1122" dy="-9229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2854,20 +2854,20 @@
         <mxCell id="Y2Iz53gwISeu-W3x882E-2453" edge="1" parent="1" source="Y2Iz53gwISeu-W3x882E-2454" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" target="Y2Iz53gwISeu-W3x882E-2475">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y2Iz53gwISeu-W3x882E-2454" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=20;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=bottom;fontStyle=1" value="&lt;br&gt;&lt;div&gt;शेर ब&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="Y2Iz53gwISeu-W3x882E-2454" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=20;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=bottom;fontStyle=1" value="&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;शेर ब / सोताङ राई&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="133.6" x="248.42999999999964" y="19455" as="geometry" />
         </mxCell>
         <mxCell id="ZLJKaPr_ZlD3DuKh6zNA-5" edge="1" parent="1" source="Y2Iz53gwISeu-W3x882E-2458" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Y2Iz53gwISeu-W3x882E-2486">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y2Iz53gwISeu-W3x882E-2458" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=20;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=bottom;fontStyle=1" value="बिरेन" vertex="1">
+        <mxCell id="Y2Iz53gwISeu-W3x882E-2458" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=20;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=bottom;fontStyle=1" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;बिरेन&lt;/span&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;/ लक्ष्मी लिम्बु&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="140" x="49.03" y="19558.25" as="geometry" />
         </mxCell>
-        <mxCell id="Y2Iz53gwISeu-W3x882E-2459" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1;strokeWidth=2;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;कान्छी&amp;nbsp;&lt;/span&gt;तिर&lt;span style=&quot;font-size: 20px;&quot;&gt;)&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="120" x="636.3999999999999" y="19525" as="geometry" />
+        <mxCell id="Y2Iz53gwISeu-W3x882E-2459" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1;strokeWidth=2;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 14px; font-style: italic; background-color: rgb(251, 251, 251); float: none; display: inline !important;&quot;&gt;(कान्छी तिर)&lt;/span&gt;&lt;div style=&quot;font-size: 14px; font-style: italic; white-space: normal;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); white-space: nowrap; background-color: rgb(251, 251, 251); float: none; display: inline !important;&quot;&gt;बृताकुमारी सोताङ&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="120" x="636.3999999999999" y="19520" as="geometry" />
         </mxCell>
-        <mxCell id="Y2Iz53gwISeu-W3x882E-2460" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1;strokeWidth=2;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;जेठी&amp;nbsp;&lt;/span&gt;तिर&lt;span style=&quot;font-size: 20px;&quot;&gt;)&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="100" x="300.7599999999996" y="19525" as="geometry" />
+        <mxCell id="Y2Iz53gwISeu-W3x882E-2460" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1;strokeWidth=2;" value="&lt;span style=&quot;font-size: 14px; font-style: italic;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;font-size: 14px; font-style: italic;&quot;&gt;जेठी तिर)&lt;/span&gt;&lt;div style=&quot;font-size: 14px; font-style: italic;&quot;&gt;तिर्थमाया सोताङ&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="295.7599999999996" y="19520" as="geometry" />
         </mxCell>
         <mxCell id="Y2Iz53gwISeu-W3x882E-2461" edge="1" parent="1" source="Y2Iz53gwISeu-W3x882E-2466" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" target="Y2Iz53gwISeu-W3x882E-2478">
           <mxGeometry relative="1" as="geometry">
@@ -2999,7 +2999,7 @@
         <mxCell id="Y2Iz53gwISeu-W3x882E-2485" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=20;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=bottom;fontStyle=1" value="आयुषा" vertex="1">
           <mxGeometry height="40" width="115.34" x="978.28" y="19683.25" as="geometry" />
         </mxCell>
-        <mxCell id="Y2Iz53gwISeu-W3x882E-2486" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=20;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=bottom;fontStyle=1" value="" vertex="1">
+        <mxCell id="Y2Iz53gwISeu-W3x882E-2486" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=20;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=bottom;fontStyle=1" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;आकृति&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="95" x="70.25" y="19687.25" as="geometry" />
         </mxCell>
         <mxCell id="Y2Iz53gwISeu-W3x882E-2489" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=20;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=bottom;fontStyle=1" value="स्मृति" vertex="1">
