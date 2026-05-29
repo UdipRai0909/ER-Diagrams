@@ -1,0 +1,29 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Part B" id="_A0P7xX12ALmnPptFxIs">
+    <mxGraphModel dx="4907" dy="3220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Y2Iz53gwISeu-W3x882E-598" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1;fontSize=20;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2010.46" y="14408" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y2Iz53gwISeu-W3x882E-599" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1;fontSize=20;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2010.46" y="14408" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y2Iz53gwISeu-W3x882E-619" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=20;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1762.64" y="14738" />
+              <mxPoint x="1653.6399999999996" y="14738" />
+            </Array>
+            <mxPoint x="1762.4699999999993" y="14508" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
