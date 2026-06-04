@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="gQ1d4mw3pntO7pC_yycS">
-    <mxGraphModel dx="1776" dy="886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2486" dy="1240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3439,17 +3439,21 @@
         <mxCell id="XrbNhIOE2mG5pTew3Nw4-151" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=20;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=bottom;fontStyle=1" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;पुनुकसिं" vertex="1">
           <mxGeometry height="40" width="150" x="533.7699999999999" y="10450" as="geometry" />
         </mxCell>
-        <mxCell id="XrbNhIOE2mG5pTew3Nw4-152" edge="1" parent="1" source="XrbNhIOE2mG5pTew3Nw4-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.642;exitY=0;exitDx=0;exitDy=0;fontSize=20;fontStyle=1;strokeWidth=2;exitPerimeter=0;" target="XrbNhIOE2mG5pTew3Nw4-161">
+        <mxCell id="XrbNhIOE2mG5pTew3Nw4-153" edge="1" parent="1" source="XrbNhIOE2mG5pTew3Nw4-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;strokeWidth=2;" target="XrbNhIOE2mG5pTew3Nw4-166">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="800" y="10620" />
-              <mxPoint x="1499" y="10620" />
+              <mxPoint x="386" y="10630" />
+              <mxPoint x="181" y="10630" />
             </Array>
-            <mxPoint x="873.3499999999999" y="10590" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XrbNhIOE2mG5pTew3Nw4-153" edge="1" parent="1" source="XrbNhIOE2mG5pTew3Nw4-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;strokeWidth=2;" target="XrbNhIOE2mG5pTew3Nw4-166">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="xOr38zjhtgoEn_GuJcJn-17" edge="1" parent="1" source="XrbNhIOE2mG5pTew3Nw4-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XrbNhIOE2mG5pTew3Nw4-161">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="386" y="10630" />
+              <mxPoint x="1499" y="10630" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="XrbNhIOE2mG5pTew3Nw4-154" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=20;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=bottom;fontStyle=1" value="आसबहादुर /&lt;div&gt;&amp;nbsp;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="190" x="291.07" y="10540" as="geometry" />
@@ -3503,7 +3507,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XrbNhIOE2mG5pTew3Nw4-161" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=20;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=bottom;fontStyle=1" value="हुकुम ब /&lt;div&gt;सानुमाया लिम्बु&lt;/div&gt;" vertex="1">
-          <mxGeometry height="58" width="145.41" x="1426.31" y="10642" as="geometry" />
+          <mxGeometry height="50" width="145.41" x="1426.31" y="10650" as="geometry" />
         </mxCell>
         <mxCell id="XrbNhIOE2mG5pTew3Nw4-162" edge="1" parent="1" source="XrbNhIOE2mG5pTew3Nw4-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" target="XrbNhIOE2mG5pTew3Nw4-174">
           <mxGeometry relative="1" as="geometry">
