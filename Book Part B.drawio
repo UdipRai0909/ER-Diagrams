@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="VriJYDdZBSftkc7NZYvz">
-    <mxGraphModel dx="1765" dy="1035" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="809" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2769,6 +2769,30 @@
         </mxCell>
         <mxCell id="a69vlYV9GtuGRtWfBxQB-586" edge="1" parent="1" source="a69vlYV9GtuGRtWfBxQB-582" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.514;entryY=0.041;entryDx=0;entryDy=0;entryPerimeter=0;" target="a69vlYV9GtuGRtWfBxQB-555">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a69vlYV9GtuGRtWfBxQB-592" parent="1" style="text;whiteSpace=wrap;align=center;fontStyle=3;fontSize=14;verticalAlign=middle;" value="(लिङलिङ) " vertex="1">
+          <mxGeometry height="21" width="80" x="56.35" y="9640" as="geometry" />
+        </mxCell>
+        <mxCell id="a69vlYV9GtuGRtWfBxQB-593" parent="1" style="text;whiteSpace=wrap;align=center;fontStyle=3;fontSize=14;verticalAlign=middle;" value="(खेउरिङ) " vertex="1">
+          <mxGeometry height="21" width="80" x="148.95999999999998" y="9640" as="geometry" />
+        </mxCell>
+        <mxCell id="a69vlYV9GtuGRtWfBxQB-594" parent="1" style="text;whiteSpace=wrap;align=center;fontStyle=3;fontSize=14;verticalAlign=middle;" value="(ओक्तेन) " vertex="1">
+          <mxGeometry height="21" width="80" x="244.34" y="9640" as="geometry" />
+        </mxCell>
+        <mxCell id="a69vlYV9GtuGRtWfBxQB-595" parent="1" style="text;whiteSpace=wrap;align=center;fontStyle=3;fontSize=14;verticalAlign=middle;" value="(धुपु) " vertex="1">
+          <mxGeometry height="21" width="80" x="337.99" y="9640" as="geometry" />
+        </mxCell>
+        <mxCell id="a69vlYV9GtuGRtWfBxQB-596" parent="1" style="text;whiteSpace=wrap;align=center;fontStyle=3;fontSize=14;verticalAlign=middle;" value="(पाङमा) " vertex="1">
+          <mxGeometry height="21" width="80" x="432.92" y="9640" as="geometry" />
+        </mxCell>
+        <mxCell id="a69vlYV9GtuGRtWfBxQB-597" parent="1" style="text;whiteSpace=wrap;align=center;fontStyle=3;fontSize=14;verticalAlign=middle;" value="(माल्टा) " vertex="1">
+          <mxGeometry height="21" width="80" x="527.73" y="9640" as="geometry" />
+        </mxCell>
+        <mxCell id="a69vlYV9GtuGRtWfBxQB-598" parent="1" style="text;whiteSpace=wrap;align=center;fontStyle=3;fontSize=14;verticalAlign=middle;" value="(चक्रघट्टी) " vertex="1">
+          <mxGeometry height="21" width="80" x="618.47" y="9640" as="geometry" />
+        </mxCell>
+        <mxCell id="a69vlYV9GtuGRtWfBxQB-599" parent="1" style="text;whiteSpace=wrap;align=center;fontStyle=3;fontSize=14;verticalAlign=middle;" value="(पाङमा) " vertex="1">
+          <mxGeometry height="21" width="80" x="709" y="9640" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
