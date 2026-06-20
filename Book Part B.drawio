@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="VriJYDdZBSftkc7NZYvz">
-    <mxGraphModel dx="1342" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3643" dy="2029" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4790,6 +4790,15 @@
         </mxCell>
         <mxCell id="ojZnmHS75iBvboCbPgkM-176" parent="1" style="text;whiteSpace=wrap;align=center;fontStyle=3;fontSize=16;verticalAlign=middle;" value="(भोजपुर)" vertex="1">
           <mxGeometry height="21" width="88" x="686.5899999999999" y="15150" as="geometry" />
+        </mxCell>
+        <mxCell id="ojZnmHS75iBvboCbPgkM-184" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 64px;&quot;&gt;TEST&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="174.76" x="16" y="15197" as="geometry" />
+        </mxCell>
+        <mxCell id="ojZnmHS75iBvboCbPgkM-185" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 64px;&quot;&gt;TEST&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="174.76" x="16" y="16366" as="geometry" />
+        </mxCell>
+        <mxCell id="ojZnmHS75iBvboCbPgkM-186" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 64px;&quot;&gt;TEST&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="174.76" x="16" y="17535" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
