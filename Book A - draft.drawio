@@ -8908,6 +8908,32 @@
         <mxCell id="0Pa_CxJ2ZRl_IzL3acKH-6" parent="1" style="text;whiteSpace=wrap;fontSize=19;" value="ताप्लेजुङ" vertex="1">
           <mxGeometry height="50" width="128.93" x="141.05" y="4901.5" as="geometry" />
         </mxCell>
+        <mxCell id="0Pa_CxJ2ZRl_IzL3acKH-11" edge="1" parent="1" source="0Pa_CxJ2ZRl_IzL3acKH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="0Pa_CxJ2ZRl_IzL3acKH-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="547" y="5030" />
+              <mxPoint x="657" y="5030" />
+              <mxPoint x="657" y="5033" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0Pa_CxJ2ZRl_IzL3acKH-12" edge="1" parent="1" source="0Pa_CxJ2ZRl_IzL3acKH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0Pa_CxJ2ZRl_IzL3acKH-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="547" y="5000" />
+              <mxPoint x="824" y="5000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0Pa_CxJ2ZRl_IzL3acKH-7" parent="1" style="text;whiteSpace=wrap;fontSize=17;" value="गाईघाट" vertex="1">
+          <mxGeometry height="40" width="70" x="512.03" y="4891.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0Pa_CxJ2ZRl_IzL3acKH-8" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=18;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=bottom;fontStyle=1" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0.0001pt; line-height: normal;&quot;&gt;सिर्जना&lt;/p&gt;" vertex="1">
+          <mxGeometry height="30" width="57.72" x="731.9" y="5010" as="geometry" />
+        </mxCell>
+        <mxCell id="0Pa_CxJ2ZRl_IzL3acKH-9" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=18;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=bottom;fontStyle=1" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0.0001pt; line-height: normal;&quot;&gt;मनिष&lt;/p&gt;" vertex="1">
+          <mxGeometry height="30" width="50.52" x="798.4800000000001" y="5010" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
