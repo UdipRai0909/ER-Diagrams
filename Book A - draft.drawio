@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="5">
   <diagram name="Page-1" id="P3nK_v2rcK4uc0ZOXDng">
-    <mxGraphModel dx="703" dy="323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1066" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3572,13 +3572,21 @@
         <mxCell id="thZb_TTFNFXedWJ0K27r-997" edge="1" parent="1" source="thZb_TTFNFXedWJ0K27r-998" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" target="thZb_TTFNFXedWJ0K27r-1000">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="0Pa_CxJ2ZRl_IzL3acKH-83" edge="1" parent="1" source="thZb_TTFNFXedWJ0K27r-998" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0Pa_CxJ2ZRl_IzL3acKH-82">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2984" y="6070" />
+              <mxPoint x="2660" y="6070" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="thZb_TTFNFXedWJ0K27r-998" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=15;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=bottom;fontStyle=1" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0.0001pt; line-height: normal; font-size: 15px;&quot;&gt;कृतिराम&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="23" width="85" x="2941.8399999999997" y="6021" as="geometry" />
         </mxCell>
         <mxCell id="thZb_TTFNFXedWJ0K27r-999" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=15;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=bottom;fontStyle=1" value="कृष्ण ब" vertex="1">
-          <mxGeometry height="23" width="85" x="2439.98" y="6090" as="geometry" />
+          <mxGeometry height="23" width="85" x="2358.93" y="6088.5" as="geometry" />
         </mxCell>
-        <mxCell id="thZb_TTFNFXedWJ0K27r-1000" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=15;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=bottom;fontStyle=1" value="बिमला / होक्से" vertex="1">
+        <mxCell id="thZb_TTFNFXedWJ0K27r-1000" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=15;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=bottom;fontStyle=1" value="बिमला -&amp;nbsp;आ&amp;nbsp;&amp;nbsp;" vertex="1">
           <mxGeometry height="21.5" width="120" x="2858.6" y="6090" as="geometry" />
         </mxCell>
         <mxCell id="thZb_TTFNFXedWJ0K27r-1001" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=15;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=bottom;fontStyle=1" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0.0001pt; line-height: normal; font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;हाङनारायण&lt;/font&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/p&gt;" vertex="1">
@@ -3631,8 +3639,8 @@
         <mxCell id="thZb_TTFNFXedWJ0K27r-1016" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;" value="&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;२०&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="50" x="3057.76" y="5900" as="geometry" />
         </mxCell>
-        <mxCell id="thZb_TTFNFXedWJ0K27r-1017" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=15;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=bottom;fontStyle=1" value="सारदा / आखिभुइ" vertex="1">
-          <mxGeometry height="23" width="140" x="2561.73" y="6090" as="geometry" />
+        <mxCell id="thZb_TTFNFXedWJ0K27r-1017" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=15;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=bottom;fontStyle=1" value="सारदा /&amp;nbsp;" vertex="1">
+          <mxGeometry height="23" width="140" x="2454.7" y="6089.25" as="geometry" />
         </mxCell>
         <mxCell id="thZb_TTFNFXedWJ0K27r-1018" edge="1" parent="1" source="thZb_TTFNFXedWJ0K27r-1022" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" target="thZb_TTFNFXedWJ0K27r-2267">
           <mxGeometry relative="1" as="geometry" />
@@ -3646,14 +3654,14 @@
         <mxCell id="thZb_TTFNFXedWJ0K27r-1021" edge="1" parent="1" source="thZb_TTFNFXedWJ0K27r-1022" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" target="thZb_TTFNFXedWJ0K27r-2270">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="thZb_TTFNFXedWJ0K27r-1022" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=15;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=bottom;fontStyle=1" value="राजकुमार /&amp;nbsp;२४" vertex="1">
-          <mxGeometry height="23" width="110" x="2730" y="6090" as="geometry" />
+        <mxCell id="thZb_TTFNFXedWJ0K27r-1022" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=15;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=bottom;fontStyle=1" value="राजकुमार /&amp;nbsp;चन्द्रमाया" vertex="1">
+          <mxGeometry height="43" width="110" x="2730" y="6070" as="geometry" />
         </mxCell>
         <mxCell id="thZb_TTFNFXedWJ0K27r-1023" parent="1" style="text;whiteSpace=wrap;fontStyle=1;strokeWidth=2;" value="(जेठी)" vertex="1">
-          <mxGeometry height="40" width="30.8" x="2439.9799999999996" y="6064" as="geometry" />
+          <mxGeometry height="40" width="30.8" x="2359.9999999999995" y="6044" as="geometry" />
         </mxCell>
         <mxCell id="thZb_TTFNFXedWJ0K27r-1024" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;strokeWidth=2;" value="(कान्छी)" vertex="1">
-          <mxGeometry height="30" width="60" x="2940.81" y="6064" as="geometry" />
+          <mxGeometry height="30" width="60" x="2590" y="6040" as="geometry" />
         </mxCell>
         <mxCell id="thZb_TTFNFXedWJ0K27r-1025" edge="1" parent="1" source="thZb_TTFNFXedWJ0K27r-1026" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" target="thZb_TTFNFXedWJ0K27r-1030">
           <mxGeometry relative="1" as="geometry" />
@@ -9055,6 +9063,18 @@
         </mxCell>
         <mxCell id="0Pa_CxJ2ZRl_IzL3acKH-78" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;डाँडागाउँ&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="80" x="2180.16" y="6643" as="geometry" />
+        </mxCell>
+        <mxCell id="0Pa_CxJ2ZRl_IzL3acKH-82" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=15;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=bottom;fontStyle=1" value="देबाहाँ -&amp;nbsp;आ&amp;nbsp;&amp;nbsp;" vertex="1">
+          <mxGeometry height="23" width="110" x="2605.31" y="6090" as="geometry" />
+        </mxCell>
+        <mxCell id="0Pa_CxJ2ZRl_IzL3acKH-84" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;आखिभुइ&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="90" x="2493.11" y="6111.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0Pa_CxJ2ZRl_IzL3acKH-85" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;चौबिस&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="90" x="2768.6" y="6112" as="geometry" />
+        </mxCell>
+        <mxCell id="0Pa_CxJ2ZRl_IzL3acKH-86" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;होक्से&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="70" x="2905" y="6112" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
