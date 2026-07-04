@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="5">
   <diagram name="Page-1" id="P3nK_v2rcK4uc0ZOXDng">
-    <mxGraphModel dx="966" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="719" dy="330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3976,6 +3976,9 @@
         </mxCell>
         <mxCell id="thZb_TTFNFXedWJ0K27r-1094" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=15;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=bottom;fontStyle=1" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0.0001pt; line-height: normal;&quot;&gt;दिलकुमार&lt;/p&gt;" vertex="1">
           <mxGeometry height="30" width="93.16" x="59.230000000000004" y="7134.63" as="geometry" />
+        </mxCell>
+        <mxCell id="0Pa_CxJ2ZRl_IzL3acKH-92" edge="1" parent="1" source="thZb_TTFNFXedWJ0K27r-1095" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0Pa_CxJ2ZRl_IzL3acKH-91" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="thZb_TTFNFXedWJ0K27r-1095" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=15;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=bottom;fontStyle=1" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0.0001pt ; line-height: normal ; font-size: 15px&quot;&gt;राजु&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="30" width="58.82" x="261.18" y="7134.63" as="geometry" />
@@ -9044,6 +9047,9 @@
         </mxCell>
         <mxCell id="0Pa_CxJ2ZRl_IzL3acKH-90" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;डिम्बापुर&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="70" x="3449.92" y="6111.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0Pa_CxJ2ZRl_IzL3acKH-91" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=15;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=bottom;fontStyle=1" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0.0001pt; line-height: normal;&quot;&gt;बब्लु&lt;/p&gt;" vertex="1">
+          <mxGeometry height="30" width="69.82" x="259.62" y="7213.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
