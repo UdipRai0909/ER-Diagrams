@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="VriJYDdZBSftkc7NZYvz">
-    <mxGraphModel dx="604" dy="286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#B266FF,#121212)" math="0" shadow="1">
+    <mxGraphModel dx="930" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#B266FF,#121212)" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15464,16 +15464,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xynz7pZ5hByODd6U0_7N-730" edge="1" parent="1" source="Xynz7pZ5hByODd6U0_7N-732" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="432.41999999999985" y="43690" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Xynz7pZ5hByODd6U0_7N-731" edge="1" parent="1" source="Xynz7pZ5hByODd6U0_7N-732" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Xynz7pZ5hByODd6U0_7N-739">
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-809" edge="1" parent="1" source="Xynz7pZ5hByODd6U0_7N-732" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Xynz7pZ5hByODd6U0_7N-739">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="432.41999999999996" y="43660" />
-              <mxPoint x="677.0200000000001" y="43660" />
+              <mxPoint x="432.43" y="43660" />
+              <mxPoint x="567.69" y="43660" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -15483,17 +15478,52 @@
         <mxCell id="Xynz7pZ5hByODd6U0_7N-733" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=18;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=top;fontStyle=0;labelPosition=center;verticalLabelPosition=top;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0.0001pt; line-height: normal;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="52" width="120" x="125.84000000000017" y="43690" as="geometry" />
         </mxCell>
-        <mxCell id="Xynz7pZ5hByODd6U0_7N-734" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;fontSize=18;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;fontStyle=0;" value="२३" vertex="1">
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-734" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;fontSize=18;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;fontStyle=0;" value="१७" vertex="1">
           <mxGeometry height="40" width="40" x="91.00000000000003" y="43696" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-798" edge="1" parent="1" source="Xynz7pZ5hByODd6U0_7N-735" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Xynz7pZ5hByODd6U0_7N-791">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="185.8" y="43770" />
+              <mxPoint x="123.4" y="43770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-799" edge="1" parent="1" source="Xynz7pZ5hByODd6U0_7N-735" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Xynz7pZ5hByODd6U0_7N-793">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="185.8" y="43770" />
+              <mxPoint x="243.4" y="43770" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Xynz7pZ5hByODd6U0_7N-735" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontSize=18;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;fontStyle=0;" value="जहानसिं" vertex="1">
           <mxGeometry height="52" width="120" x="125.83999999999995" y="43690" as="geometry" />
         </mxCell>
         <mxCell id="Xynz7pZ5hByODd6U0_7N-738" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=18;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=top;fontStyle=0;labelPosition=center;verticalLabelPosition=top;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0.0001pt; line-height: normal;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="52" width="120" x="616.9800000000001" y="43690" as="geometry" />
+          <mxGeometry height="52" width="120" x="507.73000000000013" y="43690" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-806" edge="1" parent="1" source="Xynz7pZ5hByODd6U0_7N-739" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Xynz7pZ5hByODd6U0_7N-803" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-807" edge="1" parent="1" source="Xynz7pZ5hByODd6U0_7N-739" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Xynz7pZ5hByODd6U0_7N-801">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="567.69" y="43770" />
+              <mxPoint x="447.69" y="43770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-808" edge="1" parent="1" source="Xynz7pZ5hByODd6U0_7N-739" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Xynz7pZ5hByODd6U0_7N-805">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="567.69" y="43770" />
+              <mxPoint x="690.71" y="43770" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Xynz7pZ5hByODd6U0_7N-739" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontSize=18;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;fontStyle=0;" value="जमानसिं" vertex="1">
-          <mxGeometry height="52" width="120" x="616.9799999999999" y="43690" as="geometry" />
+          <mxGeometry height="52" width="120" x="507.7299999999999" y="43690" as="geometry" />
         </mxCell>
         <mxCell id="Xynz7pZ5hByODd6U0_7N-743" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;targetPerimeterSpacing=-1;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;fontStyle=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -15580,6 +15610,423 @@
         </mxCell>
         <mxCell id="Xynz7pZ5hByODd6U0_7N-783" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontSize=18;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;fontStyle=0;" value="डेजी" vertex="1">
           <mxGeometry height="52" width="100" x="135.16" y="36140" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-789" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=18;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=top;fontStyle=0;labelPosition=center;verticalLabelPosition=top;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0.0001pt; line-height: normal;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="52" width="100" x="73.42000000000016" y="43800" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-790" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;fontSize=18;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;fontStyle=0;" value="१८" vertex="1">
+          <mxGeometry height="40" width="40" x="38.580000000000005" y="43806" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-815" edge="1" parent="1" source="Xynz7pZ5hByODd6U0_7N-791" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Xynz7pZ5hByODd6U0_7N-812" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-791" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontSize=18;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;fontStyle=0;" value="हर्कधोज" vertex="1">
+          <mxGeometry height="52" width="100" x="73.41999999999993" y="43800" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-792" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=18;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=top;fontStyle=0;labelPosition=center;verticalLabelPosition=top;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0.0001pt; line-height: normal;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="52" width="100" x="193.42000000000024" y="43800" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-816" edge="1" parent="1" source="Xynz7pZ5hByODd6U0_7N-793" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Xynz7pZ5hByODd6U0_7N-814" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-793" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontSize=18;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;fontStyle=0;" value="लालधोज" vertex="1">
+          <mxGeometry height="52" width="100" x="193.42000000000002" y="43800" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-800" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=18;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=top;fontStyle=0;labelPosition=center;verticalLabelPosition=top;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0.0001pt; line-height: normal;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="52" width="100" x="397.73000000000025" y="43800" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-801" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontSize=18;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;fontStyle=0;" value="मानबहादुर" vertex="1">
+          <mxGeometry height="52" width="100" x="397.73" y="43800" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-802" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=18;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=top;fontStyle=0;labelPosition=center;verticalLabelPosition=top;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0.0001pt; line-height: normal;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="52" width="100" x="517.7300000000004" y="43800" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-831" edge="1" parent="1" source="Xynz7pZ5hByODd6U0_7N-803" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Xynz7pZ5hByODd6U0_7N-819">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="567.69" y="43900" />
+              <mxPoint x="381.11" y="43900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-833" edge="1" parent="1" source="Xynz7pZ5hByODd6U0_7N-803" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Xynz7pZ5hByODd6U0_7N-821">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="567.69" y="43900" />
+              <mxPoint x="491.69" y="43900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-834" edge="1" parent="1" source="Xynz7pZ5hByODd6U0_7N-803" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Xynz7pZ5hByODd6U0_7N-827">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="567.69" y="43900" />
+              <mxPoint x="601.69" y="43900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-835" edge="1" parent="1" source="Xynz7pZ5hByODd6U0_7N-803" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Xynz7pZ5hByODd6U0_7N-829">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="567.69" y="43900" />
+              <mxPoint x="712.31" y="43900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-803" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontSize=18;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;fontStyle=0;" value="बिष्णुबहादुर" vertex="1">
+          <mxGeometry height="52" width="100" x="517.7300000000001" y="43800" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-804" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=18;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=top;fontStyle=0;labelPosition=center;verticalLabelPosition=top;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0.0001pt; line-height: normal;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="52" width="100" x="640.7300000000002" y="43800" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-805" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontSize=18;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;fontStyle=0;" value="बिरबहादुर" vertex="1">
+          <mxGeometry height="52" width="100" x="640.73" y="43800" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-810" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=18;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=top;fontStyle=0;labelPosition=center;verticalLabelPosition=top;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0.0001pt; line-height: normal;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="52" width="100" x="73.42000000000013" y="43930" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-811" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;fontSize=18;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;fontStyle=0;" value="१९" vertex="1">
+          <mxGeometry height="40" width="40" x="38.579999999999984" y="43936" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-812" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontSize=18;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;fontStyle=0;" value="कर्ने -&amp;nbsp;था.न." vertex="1">
+          <mxGeometry height="52" width="100" x="73.4199999999999" y="43930" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-813" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=18;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=top;fontStyle=0;labelPosition=center;verticalLabelPosition=top;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;" value="" vertex="1">
+          <mxGeometry height="52" width="100" x="193.42000000000024" y="43930" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-814" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontSize=18;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;fontStyle=0;" value="मोहनसिं" vertex="1">
+          <mxGeometry height="52" width="100" x="193.42000000000002" y="43930" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-817" parent="1" style="text;whiteSpace=wrap;align=center;fontStyle=2;fontSize=18;verticalAlign=middle;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;" value="(जम्दार)" vertex="1">
+          <mxGeometry height="20" width="100" x="397.73" y="43860" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-818" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=18;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=top;fontStyle=0;labelPosition=center;verticalLabelPosition=top;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0.0001pt; line-height: normal;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="52" width="100" x="331.1300000000002" y="43930" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-819" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontSize=18;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;fontStyle=0;" value="देवाहाँ" vertex="1">
+          <mxGeometry height="52" width="100" x="331.13" y="43930" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-820" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=18;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=top;fontStyle=0;labelPosition=center;verticalLabelPosition=top;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;" value="" vertex="1">
+          <mxGeometry height="52" width="100" x="441.70000000000033" y="43930" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-821" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontSize=18;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;fontStyle=0;" value="यज्ञबहादुर&lt;div&gt;= नेपाले&lt;/div&gt;" vertex="1">
+          <mxGeometry height="52" width="100" x="441.7000000000001" y="43930" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-826" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=18;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=top;fontStyle=0;labelPosition=center;verticalLabelPosition=top;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0.0001pt; line-height: normal;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="52" width="100" x="551.7000000000003" y="43930" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-827" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontSize=18;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;fontStyle=0;" value="था.न." vertex="1">
+          <mxGeometry height="52" width="100" x="551.7" y="43930" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-828" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=18;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=top;fontStyle=0;labelPosition=center;verticalLabelPosition=top;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;" value="" vertex="1">
+          <mxGeometry height="52" width="100" x="662.2700000000004" y="43930" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-829" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontSize=18;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;fontStyle=0;" value="नि" vertex="1">
+          <mxGeometry height="52" width="100" x="662.2700000000002" y="43930" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-836" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;targetPerimeterSpacing=-1;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;fontStyle=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="8" y="44020" as="sourcePoint" />
+            <mxPoint x="819" y="44020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-837" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=18;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=top;fontStyle=0;labelPosition=center;verticalLabelPosition=top;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0.0001pt; line-height: normal;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="52" width="120" x="372.4200000000001" y="44050" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-838" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;fontSize=18;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;fontStyle=0;" value="१८" vertex="1">
+          <mxGeometry height="40" width="40" x="337.5799999999999" y="44056" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-844" edge="1" parent="1" source="Xynz7pZ5hByODd6U0_7N-839" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Xynz7pZ5hByODd6U0_7N-843" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-839" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontSize=18;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;fontStyle=0;" value="बिरबहादुर" vertex="1">
+          <mxGeometry height="52" width="120" x="372.41999999999985" y="44050" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-841" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=18;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=top;fontStyle=0;labelPosition=center;verticalLabelPosition=top;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0.0001pt; line-height: normal;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="52" width="120" x="372.42000000000013" y="44150" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-842" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;fontSize=18;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;fontStyle=0;" value="१९" vertex="1">
+          <mxGeometry height="40" width="40" x="337.58" y="44156" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-843" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontSize=18;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;fontStyle=0;" value="भगवान&lt;div&gt;= यांखुरुङ&lt;/div&gt;" vertex="1">
+          <mxGeometry height="52" width="120" x="372.4199999999999" y="44150" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-875" edge="1" parent="1" source="Xynz7pZ5hByODd6U0_7N-845" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Xynz7pZ5hByODd6U0_7N-847">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="432.43" y="44260" />
+              <mxPoint x="148.6" y="44260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-876" edge="1" parent="1" source="Xynz7pZ5hByODd6U0_7N-845" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Xynz7pZ5hByODd6U0_7N-850">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="432.43" y="44260" />
+              <mxPoint x="242.31" y="44260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-877" edge="1" parent="1" source="Xynz7pZ5hByODd6U0_7N-845" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Xynz7pZ5hByODd6U0_7N-860">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="432.43" y="44260" />
+              <mxPoint x="712.03" y="44260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-878" edge="1" parent="1" source="Xynz7pZ5hByODd6U0_7N-845" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Xynz7pZ5hByODd6U0_7N-852">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-880" edge="1" parent="1" source="Xynz7pZ5hByODd6U0_7N-845" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Xynz7pZ5hByODd6U0_7N-856">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-881" edge="1" parent="1" source="Xynz7pZ5hByODd6U0_7N-845" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Xynz7pZ5hByODd6U0_7N-858">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="432.43" y="44260" />
+              <mxPoint x="618.31" y="44260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-882" edge="1" parent="1" source="Xynz7pZ5hByODd6U0_7N-845" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Xynz7pZ5hByODd6U0_7N-854">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-845" parent="1" style="text;whiteSpace=wrap;align=center;fontStyle=2;fontSize=18;verticalAlign=middle;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;" value="(धुपु)" vertex="1">
+          <mxGeometry height="20" width="120" x="372.42" y="44210" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-846" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=18;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=top;fontStyle=0;labelPosition=center;verticalLabelPosition=top;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0.0001pt; line-height: normal;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="52" width="80" x="109.48000000000002" y="44290" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-847" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontSize=18;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;fontStyle=0;" value="सालिग्राम&lt;div&gt;= चुङखुरुङ&lt;/div&gt;" vertex="1">
+          <mxGeometry height="52" width="80" x="109.15999999999997" y="44290" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-848" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;fontSize=18;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;fontStyle=0;" value="२०" vertex="1">
+          <mxGeometry height="40" width="40" x="74" y="44296" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-849" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=18;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=top;fontStyle=0;labelPosition=center;verticalLabelPosition=top;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0.0001pt; line-height: normal;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="52" width="80" x="203.16000000000008" y="44290" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-850" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontSize=18;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;fontStyle=0;" value="चेली" vertex="1">
+          <mxGeometry height="52" width="80" x="202.84000000000003" y="44290" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-851" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=18;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=top;fontStyle=0;labelPosition=center;verticalLabelPosition=top;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0.0001pt; line-height: normal;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="52" width="80" x="298.32000000000005" y="44290" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-852" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontSize=18;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;fontStyle=0;" value="चेली" vertex="1">
+          <mxGeometry height="52" width="80" x="298" y="44290" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-853" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=18;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=top;fontStyle=0;labelPosition=center;verticalLabelPosition=top;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0.0001pt; line-height: normal;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="52" width="80" x="392.0000000000001" y="44290" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-854" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontSize=18;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;fontStyle=0;" value="चेली" vertex="1">
+          <mxGeometry height="52" width="80" x="391.68000000000006" y="44290" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-855" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=18;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=top;fontStyle=0;labelPosition=center;verticalLabelPosition=top;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0.0001pt; line-height: normal;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="52" width="80" x="484.0400000000001" y="44290" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-856" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontSize=18;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;fontStyle=0;" value="श्रीजना" vertex="1">
+          <mxGeometry height="52" width="80" x="483.72" y="44290" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-857" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=18;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=top;fontStyle=0;labelPosition=center;verticalLabelPosition=top;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0.0001pt; line-height: normal;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="52" width="80" x="579.2" y="44290" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-858" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontSize=18;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;fontStyle=0;" value="डिल्लीमान" vertex="1">
+          <mxGeometry height="52" width="80" x="578.88" y="44290" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-859" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=18;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=top;fontStyle=0;labelPosition=center;verticalLabelPosition=top;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0.0001pt; line-height: normal;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="52" width="80" x="672.8800000000001" y="44290" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-860" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontSize=18;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;fontStyle=0;" value="चेली" vertex="1">
+          <mxGeometry height="52" width="80" x="672.56" y="44290" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-883" parent="1" style="text;whiteSpace=wrap;align=center;fontStyle=2;fontSize=18;verticalAlign=middle;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;" value="(केङरिङ)" vertex="1">
+          <mxGeometry height="20" width="80" x="202.84" y="44350" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-884" parent="1" style="text;whiteSpace=wrap;align=center;fontStyle=2;fontSize=18;verticalAlign=middle;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;" value="(भित्रिपाम)" vertex="1">
+          <mxGeometry height="20" width="80" x="298.32" y="44350" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-885" parent="1" style="text;whiteSpace=wrap;align=center;fontStyle=2;fontSize=18;verticalAlign=middle;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;" value="(खमारे)" vertex="1">
+          <mxGeometry height="20" width="80" x="391.68" y="44350" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-886" parent="1" style="text;whiteSpace=wrap;align=center;fontStyle=2;fontSize=18;verticalAlign=middle;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;" value="(भित्रिपाम)" vertex="1">
+          <mxGeometry height="20" width="80" x="483.72" y="44350" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-887" parent="1" style="text;whiteSpace=wrap;align=center;fontStyle=2;fontSize=18;verticalAlign=middle;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;" value="(भित्रिपाम)" vertex="1">
+          <mxGeometry height="20" width="80" x="579.2" y="44350" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-889" parent="1" style="text;whiteSpace=wrap;align=center;fontStyle=2;fontSize=18;verticalAlign=middle;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;" value="(मामलीङ)" vertex="1">
+          <mxGeometry height="20" width="80" x="672.27" y="44350" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-890" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=18;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=top;fontStyle=0;labelPosition=center;verticalLabelPosition=top;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0.0001pt; line-height: normal;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="52" width="120" x="372.4200000000001" y="44470" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-891" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;fontSize=18;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;fontStyle=0;" value="१८" vertex="1">
+          <mxGeometry height="40" width="40" x="337.5799999999999" y="44476" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-999" edge="1" parent="1" source="Xynz7pZ5hByODd6U0_7N-892" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Xynz7pZ5hByODd6U0_7N-953">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="432.38" y="44560.03" />
+              <mxPoint x="165.78" y="44560.03" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-1000" edge="1" parent="1" source="Xynz7pZ5hByODd6U0_7N-892" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Xynz7pZ5hByODd6U0_7N-974">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="432.38" y="44560.03" />
+              <mxPoint x="236.59" y="44560.03" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-1001" edge="1" parent="1" source="Xynz7pZ5hByODd6U0_7N-892" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Xynz7pZ5hByODd6U0_7N-895">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="432.38" y="44560.03" />
+              <mxPoint x="95.19" y="44560.03" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-1002" edge="1" parent="1" source="Xynz7pZ5hByODd6U0_7N-892" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Xynz7pZ5hByODd6U0_7N-995">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="432.38" y="44560.03" />
+              <mxPoint x="730" y="44560.03" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-1003" edge="1" parent="1" source="Xynz7pZ5hByODd6U0_7N-892" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Xynz7pZ5hByODd6U0_7N-977">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="432.38" y="44560.03" />
+              <mxPoint x="307.3" y="44560.03" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-1004" edge="1" parent="1" source="Xynz7pZ5hByODd6U0_7N-892" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Xynz7pZ5hByODd6U0_7N-980">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="432.38" y="44560.03" />
+              <mxPoint x="380" y="44560.03" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-1006" edge="1" parent="1" source="Xynz7pZ5hByODd6U0_7N-892" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Xynz7pZ5hByODd6U0_7N-983">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="432.38" y="44560.03" />
+              <mxPoint x="450.7" y="44560.03" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-1007" edge="1" parent="1" source="Xynz7pZ5hByODd6U0_7N-892" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Xynz7pZ5hByODd6U0_7N-986">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="432.38" y="44560.03" />
+              <mxPoint x="521.41" y="44560.03" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-1008" edge="1" parent="1" source="Xynz7pZ5hByODd6U0_7N-892" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Xynz7pZ5hByODd6U0_7N-989">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="432.38" y="44560.03" />
+              <mxPoint x="592.11" y="44560.03" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-1009" edge="1" parent="1" source="Xynz7pZ5hByODd6U0_7N-892" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Xynz7pZ5hByODd6U0_7N-992">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="432.38" y="44560.03" />
+              <mxPoint x="661.03" y="44560.03" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-892" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontSize=18;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;fontStyle=0;" value="&lt;div&gt;सालिग्राम&lt;/div&gt;&lt;div&gt;= चुङखुरुङ&lt;/div&gt;" vertex="1">
+          <mxGeometry height="52" width="120" x="372.41999999999985" y="44470" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-894" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=17;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=top;fontStyle=0;labelPosition=center;verticalLabelPosition=top;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0.0001pt; line-height: normal;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="52" width="60" x="65.48000000000002" y="44590" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-895" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontSize=17;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;fontStyle=0;" value="&lt;div&gt;खड्ग ब&lt;/div&gt;" vertex="1">
+          <mxGeometry height="52" width="60" x="65.15999999999997" y="44590" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-896" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;fontSize=18;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;fontStyle=0;" value="२०" vertex="1">
+          <mxGeometry height="40" width="40" x="30" y="44596" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-913" parent="1" style="text;whiteSpace=wrap;align=center;fontStyle=2;fontSize=17;verticalAlign=middle;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;" value="(मामलीङ)" vertex="1">
+          <mxGeometry height="20" width="60" x="65.16" y="44650" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-952" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=17;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=top;fontStyle=0;labelPosition=center;verticalLabelPosition=top;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0.0001pt; line-height: normal;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="52" width="60" x="136.16000000000005" y="44590" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-953" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontSize=17;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;fontStyle=0;" value="&lt;div&gt;चन्द्र ब&lt;/div&gt;" vertex="1">
+          <mxGeometry height="52" width="60" x="135.84" y="44590" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-973" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=17;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=top;fontStyle=0;labelPosition=center;verticalLabelPosition=top;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0.0001pt; line-height: normal;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="52" width="60" x="206.90000000000003" y="44590" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-974" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontSize=17;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;fontStyle=0;" value="&lt;div&gt;नकुल&lt;/div&gt;" vertex="1">
+          <mxGeometry height="52" width="60" x="206.57999999999998" y="44590" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-975" parent="1" style="text;whiteSpace=wrap;align=center;fontStyle=2;fontSize=17;verticalAlign=middle;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;" value="(तेजुमा)" vertex="1">
+          <mxGeometry height="20" width="60" x="206.58000000000004" y="44650" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-976" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=17;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=top;fontStyle=0;labelPosition=center;verticalLabelPosition=top;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0.0001pt; line-height: normal;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="52" width="60" x="277.5800000000001" y="44590" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-977" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontSize=17;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;fontStyle=0;" value="&lt;div&gt;चेली&lt;/div&gt;" vertex="1">
+          <mxGeometry height="52" width="60" x="277.26000000000005" y="44590" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-979" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=17;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=top;fontStyle=0;labelPosition=center;verticalLabelPosition=top;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0.0001pt; line-height: normal;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="52" width="60" x="350.32000000000005" y="44590" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-980" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontSize=17;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;fontStyle=0;" value="&lt;div&gt;चेली&lt;/div&gt;" vertex="1">
+          <mxGeometry height="52" width="60" x="350" y="44590" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-981" parent="1" style="text;whiteSpace=wrap;align=center;fontStyle=2;fontSize=17;verticalAlign=middle;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;" value="(धरान)" vertex="1">
+          <mxGeometry height="20" width="60" x="350" y="44650" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-982" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=17;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=top;fontStyle=0;labelPosition=center;verticalLabelPosition=top;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0.0001pt; line-height: normal;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="52" width="60" x="421.0000000000001" y="44590" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-983" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontSize=17;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;fontStyle=0;" value="&lt;div&gt;कमान सिं&lt;/div&gt;" vertex="1">
+          <mxGeometry height="52" width="60" x="420.68000000000006" y="44590" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-985" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=17;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=top;fontStyle=0;labelPosition=center;verticalLabelPosition=top;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0.0001pt; line-height: normal;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="52" width="60" x="491.74000000000007" y="44590" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-986" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontSize=17;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;fontStyle=0;" value="&lt;div&gt;चेली&lt;/div&gt;" vertex="1">
+          <mxGeometry height="52" width="60" x="491.42" y="44590" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-988" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=17;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=top;fontStyle=0;labelPosition=center;verticalLabelPosition=top;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0.0001pt; line-height: normal;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="52" width="60" x="562.4200000000001" y="44590" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-989" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontSize=17;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;fontStyle=0;" value="&lt;div&gt;गोरे&lt;/div&gt;" vertex="1">
+          <mxGeometry height="52" width="60" x="562.1000000000001" y="44590" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-991" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=17;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=top;fontStyle=0;labelPosition=center;verticalLabelPosition=top;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0.0001pt; line-height: normal;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="52" width="60" x="631.32" y="44590" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-992" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontSize=17;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;fontStyle=0;" value="&lt;div&gt;शेर्पा&lt;/div&gt;" vertex="1">
+          <mxGeometry height="52" width="60" x="631" y="44590" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-994" parent="1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=17;align=center;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=top;fontStyle=0;labelPosition=center;verticalLabelPosition=top;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0.0001pt; line-height: normal;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="52" width="60" x="700.32" y="44590" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-995" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontSize=17;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;fontStyle=0;" value="&lt;div&gt;चेली&lt;/div&gt;" vertex="1">
+          <mxGeometry height="52" width="60" x="700.0000000000001" y="44590" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-1010" parent="1" style="text;whiteSpace=wrap;align=center;fontStyle=2;fontSize=18;verticalAlign=middle;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;" value="(जेठी)" vertex="1">
+          <mxGeometry height="20" width="60" x="90" y="44536" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-1011" parent="1" style="text;whiteSpace=wrap;align=center;fontStyle=2;fontSize=18;verticalAlign=middle;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;" value="(माइली - स्वाची, वानेम)" vertex="1">
+          <mxGeometry height="20" width="187.16" x="206.9" y="44536" as="geometry" />
+        </mxCell>
+        <mxCell id="Xynz7pZ5hByODd6U0_7N-1012" parent="1" style="text;whiteSpace=wrap;align=center;fontStyle=2;fontSize=18;verticalAlign=middle;fontFamily=Noto Sans Devanagari;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari;" value="(कान्छी)" vertex="1">
+          <mxGeometry height="20" width="80" x="570" y="44536" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
